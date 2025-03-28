@@ -2,7 +2,7 @@ title: MaterialDigital Workflow Store
 description: ""
 remote_theme: pmarsceill/just-the-docs
 
-baseurl: "/workflow-store"
+baseurl: "/workflows"
 url: "https://materialdigital.github.io"
 
 aux_links:
