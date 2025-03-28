@@ -48,7 +48,7 @@ Sample `meta.json`:
 }
 ```
 
-Full info on the file format [here](pages/detailed_instructions/metadata).
+Full information on the file format is available [here](pages/detailed_instructions/metadata).
 
 ### 3. Add a README (optional)
 
